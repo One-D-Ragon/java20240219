@@ -26,7 +26,7 @@ public class C02Integer {
         long f = 23423L;
 //        int g = 243L;
 
-
+        // 내일은 byte, short 배울 예정
         // byte, shor
     }
 }
