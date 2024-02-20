@@ -53,7 +53,7 @@ public class C01Variable {
         // 소문자로 시작
         // 여러단어의 조합이면 각단어의 앞글자만 대문자
         // lowerCamelCase
-
+    
         int age;
         int ageOfJames;
         int address;
