@@ -15,6 +15,7 @@ public class VariableExchangeExample {
         int a = 100;
         int b = 200;
 
+
         // 적절한 코드 작성
         // swap a, b
         int t = a;
@@ -23,5 +24,6 @@ public class VariableExchangeExample {
 
         System.out.println(a); // 200
         System.out.println(b); // 100
+
     }
 }
