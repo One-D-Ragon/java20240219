@@ -10,7 +10,7 @@ public class C15StringTemplate {
 
         // my name is jane and age is 50
 
-        String desc1 = "my name is" + name + " and age is " + age;
+        String desc1 = "my name is " + name + " and age is " + age;
         System.out.println(desc1);
 
         String desc2 = String.format("my name is %s and age is %s", name, age);
