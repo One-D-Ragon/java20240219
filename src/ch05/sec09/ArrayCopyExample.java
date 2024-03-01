@@ -16,4 +16,5 @@ public class ArrayCopyExample {
         }
         System.out.println(Arrays.toString(newStrArray));
     }
+
 }
