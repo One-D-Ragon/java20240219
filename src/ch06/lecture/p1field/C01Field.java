@@ -11,6 +11,8 @@ public class C01Field {
 
         System.out.println(arr1.hashCode());
         System.out.println(arr2.hashCode());
+        System.out.println(arr2.hashCode());
+
 
     }
 }
