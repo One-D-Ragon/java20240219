@@ -23,6 +23,6 @@ class C04MyClass {
         // static 멤버에서 인스턴스 멤버에 접근하지 못함
         System.out.println(location);
 //        System.out.println(name); // x
-
+        //
     }
 }
