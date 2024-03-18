@@ -1,4 +1,4 @@
-package ch13.lecture;
+package ch13.lecture.p1generic;
 
 public class C07WildCard {
     public static void main(String[] args) {
