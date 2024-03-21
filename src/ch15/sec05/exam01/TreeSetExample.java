@@ -37,7 +37,7 @@ public class TreeSetExample {
         System.out.println("\n");
 
         // 범위 검색( 80 <= )
-        NavigableSet<Integer> rangeSet = scor = es.tailSet(80, true);
+        NavigableSet<Integer> rangeSet = scores.tailSet(80, true);
         for (Integer s : rangeSet) {
             System.out.println(s + " ");
         }
